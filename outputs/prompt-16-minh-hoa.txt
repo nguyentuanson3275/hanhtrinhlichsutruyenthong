@@ -1,0 +1,27 @@
+PROMPT BỘ 16 MINH HỌA — TỪ VÁCH ĐÁ ĐẾN DÒNG TIN
+
+Công cụ: ImageGen tích hợp. Ảnh dùng trên website được tối ưu thành JPEG 16:9.
+
+Khung prompt cho ảnh 01–15
+Create one full-bleed 16:9 landscape website illustration, composed with generous breathing room for a center crop. Cinematic editorial illustration in painterly gouache and fine ink texture, dramatic museum exhibition lighting. Unified collection, graceful physical textures and cinematic depth. Scene: [scene below]. Strictly NO text, NO letters, NO words, NO logos, NO watermarks. No border or caption.
+
+01. Paleolithic cave interior, ochre bison and red hand stencils visible on weathered limestone, amber torchlight from the far right, monumental horse and bison on the right two thirds, left third darker but textured for a headline overlay
+02. ancient Egyptian papyrus scroll with a few pictographic bird and eye motifs, reed stylus, earthen desk, warm ambers
+03. old bookbinding workshop with thread and leatherbound books with unmarked spines, amber lamplight
+04. fifteenth-century European wooden movable-type press, sheet of early newsprint with abstract ink columns that cannot be read, ochre shadows
+05. mid-century radio studio, ringed ribbon microphone, analog mixing desk, teak and burnt orange
+06. vintage television studio, broadcast camera and glowing CRT screens, retro teal and cream
+07. classic cinema with 35mm projector and beam across rows of red seats, tobacco and wine colors
+08. midcentury city street advertising, unlettered painted billboards with graphic images, newsstand, shop window television, retro muted ochre and slate
+09. nighttime digital newsroom, large glowing editorial dashboards with image tiles and abstract unreadable lines, cyan with slate
+10. hands with mobile phones connected by luminous threads over a blue-violet city, thumbnail portraits, subtle neon
+11. livestream video production studio, vertical phone and video camera lit by soft violet and cyan
+12. podcast studio close up two microphones and subtle glowing cyan waveform, inky midnight blues
+13. evening lounge with people choosing a film on a television showing vivid abstract thumbnail art, deep indigo and warm coral
+14. magnifying glass over a universe of luminous data fragments, digital blue and gold
+15. creator filming with a camera and softbox above a sleeping city, beams of light reaching out toward homes, deep purple and peach
+
+16. A 16:9 landscape still life of a faceted glass prism on a museum pedestal, an educational metaphor for AI aggregating information. Only inanimate objects. Project abstract waveform ribbons, tiny landscape-photo tiles, and particles through the triangular prism into a unified light beam. Midnight indigo with subtle cyan and magenta. Cinematic editorial illustration in painterly gouache and fine ink texture, dramatic museum exhibition lighting. No humans, no anatomy, no characters, no text, no letters, no words, no logos, no watermarks.
+
+Prompt dùng cho ảnh 04 phiên bản cuối
+Create one full-bleed 16:9 landscape illustration. Cinematic editorial illustration in painterly gouache and fine ink texture, dramatic museum exhibition lighting, amber and sienna museum color palette. A historically inspired 15th-century European wooden Gutenberg printing press with screw and handle fills the right two thirds. In the foreground a newspaper-format sheet is made entirely of TWO WOODCUT PICTURES and a bold blank margin, with absolutely NO lines of typesetting, no letter-like marks, no typographic columns. Ink roller and dark workshop beyond. Match painterly editorial texture and physical warmth of a history exhibition series. Strictly NO text, NO letters, NO words, NO logos, NO watermarks, NO calligraphic squiggles. No border.
